@@ -44,6 +44,7 @@ plms
     ├── spiece.model
     └── tokenizer_config.json
 ```
+**NOTE**: For the current treebanks, CCGBank data and PLMs used in development, please refer to https://drive.google.com/drive/folders/1W3oE9J0bRhNHizbv7VO7ahsCxY5EhYW8?usp=share_link
 
 # Supertagging
 The supertagging model is a classifier built upon Transformers. We use the encoder of mT5-base by default.
