@@ -1,0 +1,15 @@
+[
+    ["N", "NP", "TC"],
+    ["S[pss]\\NP", "NP\\NP", "TC"],
+    ["S[ng]\\NP", "NP\\NP", "TC"],
+    ["S[adj]\\NP", "NP\\NP", "TC"],
+    ["S[to]\\NP", "NP\\NP", "TC"],
+    ["S[dcl]/NP", "NP\\NP", "TC"],
+    ["S[to]\\NP", "(S/S)", "TC"],
+    ["S[pss]\\NP", "(S/S)", "TC"],
+    ["S[ng]\\NP", "(S/S)", "TC"],
+    ["NP", "(S/(S\\NP))", "FT"],
+    ["NP", "((S\\NP)\\((S\\NP)/NP))", "BT"],
+    ["PP", "((S\\NP)\\((S\\NP)/PP))", "BT"],
+    ["(S[ng]\\NP)", "NP", "TC"]
+]

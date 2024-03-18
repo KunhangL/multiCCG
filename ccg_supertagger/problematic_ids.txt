@@ -1,0 +1,6 @@
+../treebanks/UD_Italian-PoSTWITA/it_postwita-ud-train.auto_ID=5223 PARSER=GOLD NUMPARSE=1
+../treebanks/UD_Italian-PoSTWITA/it_postwita-ud-train.auto_ID=3701 PARSER=GOLD NUMPARSE=1
+../treebanks/UD_Italian-PoSTWITA/it_postwita-ud-train.auto_ID=4181 PARSER=GOLD NUMPARSE=1
+../treebanks/UD_Belarusian-HSE/be_hse-ud-train.auto_ID=radyjosvaboda-6480 PARSER=GOLD NUMPARSE=1
+../treebanks/UD_Italian-PoSTWITA/it_postwita-ud-train.auto_ID=4459 PARSER=GOLD NUMPARSE=1
+../treebanks/UD_Russian-GSD/ru_gsd-ud-train.auto_ID=train-s772 PARSER=GOLD NUMPARSE=1

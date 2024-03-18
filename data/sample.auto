@@ -1,0 +1,4 @@
+ID=wsj_0010.8 PARSER=GOLD NUMPARSE=1
+(<T S[dcl] 0 2> (<T S[dcl] 1 2> (<T NP 0 1> (<T N 1 2> (<L N NN NN Champagne N>) (<T N[conj] 1 2> (<L conj CC CC and conj>) (<L N NN NN dessert N>) ) ) ) (<L S[dcl]\NP VBD VBD followed S[dcl]\NP_129>) ) (<L . . . . .>) )
+ID=wsj_0013.11 PARSER=GOLD NUMPARSE=1
+(<T S[dcl] 1 2> (<L NP DT DT That NP>) (<T S[dcl]\NP 0 2> (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP VBZ VBZ attracts (S[dcl]\NP_143)/NP_144>) (<T NP 0 1> (<L N NN NN attention N>) ) ) (<L : : : ... :>) ) )
